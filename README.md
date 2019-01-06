@@ -1,2 +1,4 @@
 
-### `This application demonstrates how a single React component can be injected at runtime via state using Redux`
+### `react-jsx-parser example`
+#
+Demonstrates how to inject jsx from a remote server as well as injecting components.
